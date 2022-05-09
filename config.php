@@ -18,8 +18,4 @@
       return self::$pdo;
     }
   }
-  
-?>
-<?php
- $con=mysqli_connect("localhost","root","","FASTTRANGM");
 ?>
